@@ -1,0 +1,19 @@
+ul {
+    display: flex;
+    align-items: center;
+}
+span {
+    text-align: right;
+    width: 80px;
+    padding-right: 10px;
+    font-size: 17px;
+    font-weight: bold;
+}
+li {
+    margin-top: 5px;
+    list-style-type: none;
+    height: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 2px;
+}
