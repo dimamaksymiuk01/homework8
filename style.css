@@ -11,7 +11,8 @@ span {
 }
 li {
     margin-top: 5px;
-    list-style-type: none;
+    color:white; 
+    list-style-type:none;     
     height: 20px;
     font-size: 18px;
     font-weight: bold;
